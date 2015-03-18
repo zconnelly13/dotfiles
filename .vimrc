@@ -68,12 +68,10 @@ filetype plugin indent on
 "E goes to end of word
 :nnoremap E ea
 
+" Rando Stuff
+:set backupdir=~/.vim/tmp/
+
 "Color
 :set t_Co=256
 :filetype plugin on
 :syntax on
-:colorscheme Tomorrow-Night-Eighties
-
-:set backupdir=~/.vim/tmp/
-
-:set mouse=a
