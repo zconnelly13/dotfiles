@@ -2,4 +2,4 @@ Dotfiles
 ========
 
 # Installation
-TODO: makefile installation 
+`bash install.sh`
